@@ -1,4 +1,6 @@
-.page_404{ padding:40px 0; background:#fff; font-family: 'Arvo', serif;
+.page_404{ 
+  padding:40px 0;  font-family: 'Arvo', serif;
+  /* border: 2px black; */
 }
 
 .page_404  img{ width:100%;}
@@ -8,6 +10,9 @@
  background-image: url("/assets/dribble.gif");
     height: 400px;
     background-position: center;
+    border: 5px solid #555;
+    box-shadow: 13px 13px 20px #777777, -13px -13px 20px rgb(104, 104, 104);
+
  }
  
  
@@ -25,4 +30,4 @@
     background: #39ac31;
     margin: 20px 0;
     display: inline-block;}
-  .contant_box_404{ margin-top:-50px;}
+  .contant_box_404{ margin-top:45px;}
